@@ -2,3 +2,5 @@
 contacts.csv
 venv/
 __pycache__/
+credentials.json
+token.json
